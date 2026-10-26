@@ -5,8 +5,8 @@ prof. Ivairton
 Trabalho 1 - Programacao 1
 Data: 13/09/2025
 
-Aluno 1: Humberto Henrique Castro Rocha - 202512722003
-Aluno 2: Joao Victor Brito do Nascimento - 202511722014
+Aluno 1: Humberto Henrique Castro Rocha
+Aluno 2: Joao Victor Brito do Nascimento
 
 Introdução a Análise Explratoria de Dados com Python
 '''
