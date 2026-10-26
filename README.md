@@ -1,13 +1,9 @@
-# Programacao-I
+# Programação I (UFMT)
 
-Materiais e trabalhos da disciplina **Programacao-I** (Ciência da Computação, UFMT).
+Trabalhos e estudos em Python.
 
-## Conteúdo
-
-- EstudoProva
-- Trabalho2_Prog1
-- Trabalho_1_Prog1
-- aula_arquivos
-- funcao_mtz_vet
-
-> Repositório organizado automaticamente em 25/10/2026.
+- **Trabalho_1_Prog1/**: trabalho final 1 (programa em terminal).
+- **Trabalho2_Prog1/**: jogo feito com PyGame (trabalho em dupla com João Victor Brito do Nascimento). Precisa de pygame instalado: pip install pygame, depois python game_trabalho2.py.
+- **aula_arquivos/**: leitura e escrita de arquivos.
+- **funcao_mtz_vet/**: funções com vetores e matrizes.
+- **EstudoProva/**: exercícios de estudo para a prova.
