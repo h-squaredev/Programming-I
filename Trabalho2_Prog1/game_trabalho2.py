@@ -5,8 +5,8 @@ prof. Ivairton
 Programacao 1
 Data: 21/09/2025
 
-Aluno 1: Humberto Henrique Castro Rocha - 202512722003
-Aluno 2: Joao Victor Brito do Nascimento - 202511722014
+Aluno 1: Humberto Henrique Castro Rocha
+Aluno 2: Joao Victor Brito do Nascimento
 
 Trabalho Final 2 - Desenvolvimento de um jogo em Python
 
